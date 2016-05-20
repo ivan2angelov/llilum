@@ -1,7 +1,7 @@
 #
 # Project-specific settings
 #
-
+SHELL=C:/Windows/System32/cmd.exe
 VERBOSE=1
 PROJECT = mbed_simple
 COMPILE_SYS_ARCH = 0
